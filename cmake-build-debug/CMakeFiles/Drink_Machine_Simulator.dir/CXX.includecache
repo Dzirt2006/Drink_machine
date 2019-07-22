@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dzirt/CLionProjects/Drink_Machine_Simulator/MachineManager.cpp
+MachineManager.h
+C:/Users/dzirt/CLionProjects/Drink_Machine_Simulator/MachineManager.h
+
+C:/Users/dzirt/CLionProjects/Drink_Machine_Simulator/MachineManager.h
+stdio.h
+-
+stdlib.h
+-
+string
+-
+iostream
+-
+iomanip
+-
+
+C:/Users/dzirt/CLionProjects/Drink_Machine_Simulator/main.cpp
+iostream
+-
+MachineManager.h
+C:/Users/dzirt/CLionProjects/Drink_Machine_Simulator/MachineManager.h
+
